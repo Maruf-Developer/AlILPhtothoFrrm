@@ -1,8 +1,38 @@
 {
-  "portrait":[
-    "https://raw.githubusercontent.com/"
-    ],
-  "landscape":[
-     "https://raw.githubusercontent.com/"
-    ]
+"square":[ 
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/CofiMoogPhtFrms/squr/1.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/CofiMoogPhtFrms/squr/2.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/CofiMoogPhtFrms/squr/3.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/CofiMoogPhtFrms/squr/4.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/CofiMoogPhtFrms/squr/5.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/CofiMoogPhtFrms/squr/6.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/CofiMoogPhtFrms/squr/7.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/CofiMoogPhtFrms/squr/8.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/CofiMoogPhtFrms/squr/9.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/CofiMoogPhtFrms/squr/10.webp"
+],
+"portrait":[ 
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/CofiMoogPhtFrms/port/1.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/CofiMoogPhtFrms/port/2.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/CofiMoogPhtFrms/port/3.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/CofiMoogPhtFrms/port/4.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/CofiMoogPhtFrms/port/5.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/CofiMoogPhtFrms/port/6.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/CofiMoogPhtFrms/port/7.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/CofiMoogPhtFrms/port/8.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/CofiMoogPhtFrms/port/9.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/CofiMoogPhtFrms/port/10.webp"  
+],
+"landscape":[  
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/CofiMoogPhtFrms/land/1.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/CofiMoogPhtFrms/land/2.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/CofiMoogPhtFrms/land/3.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/CofiMoogPhtFrms/land/4.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/CofiMoogPhtFrms/land/5.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/CofiMoogPhtFrms/land/6.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/CofiMoogPhtFrms/land/7.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/CofiMoogPhtFrms/land/8.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/CofiMoogPhtFrms/land/9.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/CofiMoogPhtFrms/land/10.webp"
+]
 }
