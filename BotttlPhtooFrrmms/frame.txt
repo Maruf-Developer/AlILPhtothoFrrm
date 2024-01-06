@@ -1,8 +1,36 @@
 {
-  "portrait":[
-    "https://raw.githubusercontent.com/"
-    ],
-  "landscape":[
-     "https://raw.githubusercontent.com/"
-    ]
+"portrait":[  
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/BotttlPhtooFrrmms/port/1.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/BotttlPhtooFrrmms/port/2.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/BotttlPhtooFrrmms/port/3.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/BotttlPhtooFrrmms/port/4.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/BotttlPhtooFrrmms/port/5.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/BotttlPhtooFrrmms/port/6.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/BotttlPhtooFrrmms/port/7.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/BotttlPhtooFrrmms/port/8.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/BotttlPhtooFrrmms/port/9.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/BotttlPhtooFrrmms/port/10.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/BotttlPhtooFrrmms/port/11.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/BotttlPhtooFrrmms/port/12.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/BotttlPhtooFrrmms/port/13.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/BotttlPhtooFrrmms/port/14.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/BotttlPhtooFrrmms/port/15.webp"
+],
+"landscape":[  
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/BotttlPhtooFrrmms/land/1.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/BotttlPhtooFrrmms/land/2.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/BotttlPhtooFrrmms/land/3.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/BotttlPhtooFrrmms/land/4.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/BotttlPhtooFrrmms/land/5.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/BotttlPhtooFrrmms/land/6.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/BotttlPhtooFrrmms/land/7.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/BotttlPhtooFrrmms/land/8.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/BotttlPhtooFrrmms/land/9.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/BotttlPhtooFrrmms/land/10.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/BotttlPhtooFrrmms/land/11.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/BotttlPhtooFrrmms/land/12.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/BotttlPhtooFrrmms/land/13.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/BotttlPhtooFrrmms/land/14.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/BotttlPhtooFrrmms/land/15.webp"
+]
 }
