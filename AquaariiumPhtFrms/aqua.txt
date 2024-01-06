@@ -1,8 +1,56 @@
-{
-  "portrait":[
-    "https://raw.githubusercontent.com/"
-    ],
-  "landscape":[
-     "https://raw.githubusercontent.com/"
-    ]
+{ 
+"square":[    ],
+
+
+"portrait":[ 
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/AquaariiumPhtFrms/port/1.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/AquaariiumPhtFrms/port/2.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/AquaariiumPhtFrms/port/3.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/AquaariiumPhtFrms/port/4.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/AquaariiumPhtFrms/port/5.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/AquaariiumPhtFrms/port/6.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/AquaariiumPhtFrms/port/7.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/AquaariiumPhtFrms/port/8.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/AquaariiumPhtFrms/port/9.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/AquaariiumPhtFrms/port/10.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/AquaariiumPhtFrms/port/11.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/AquaariiumPhtFrms/port/12.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/AquaariiumPhtFrms/port/13.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/AquaariiumPhtFrms/port/14.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/AquaariiumPhtFrms/port/15.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/AquaariiumPhtFrms/port/16.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/AquaariiumPhtFrms/port/17.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/AquaariiumPhtFrms/port/18.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/AquaariiumPhtFrms/port/19.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/AquaariiumPhtFrms/port/20.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/AquaariiumPhtFrms/port/21.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/AquaariiumPhtFrms/port/22.webp"
+],
+
+"landscape":[ 
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/AquaariiumPhtFrms/land/1.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/AquaariiumPhtFrms/land/2.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/AquaariiumPhtFrms/land/3.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/AquaariiumPhtFrms/land/4.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/AquaariiumPhtFrms/land/5.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/AquaariiumPhtFrms/land/6.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/AquaariiumPhtFrms/land/7.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/AquaariiumPhtFrms/land/8.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/AquaariiumPhtFrms/land/9.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/AquaariiumPhtFrms/land/10.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/AquaariiumPhtFrms/land/11.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/AquaariiumPhtFrms/land/12.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/AquaariiumPhtFrms/land/13.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/AquaariiumPhtFrms/land/14.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/AquaariiumPhtFrms/land/15.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/AquaariiumPhtFrms/land/16.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/AquaariiumPhtFrms/land/17.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/AquaariiumPhtFrms/land/18.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/AquaariiumPhtFrms/land/19.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/AquaariiumPhtFrms/land/20.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/AquaariiumPhtFrms/land/21.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/AquaariiumPhtFrms/land/22.webp"
+
+]
+
 }
