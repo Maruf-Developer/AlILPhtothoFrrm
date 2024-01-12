@@ -1513,8 +1513,7 @@
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/LovePhotoFrames/land/fram-16.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/LovePhotoFrames/land/fram-23.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/LovePhotoFrames/land/fram-24.webp",
-"https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/LovePhotoFrames/land/fram-25.webp",
-"https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/LovePhotoFrames/land/fram-26.webp"
+"https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/LovePhotoFrames/land/fram-25.webp"
 ],
 
  "square27":[
