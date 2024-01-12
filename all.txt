@@ -1325,7 +1325,6 @@
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HoardingPhotFram/land/frame_18.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HoardingPhotFram/land/frame_19.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HoardingPhotFram/land/frame_20.webp",
-"https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HoardingPhotFram/land/frame_21.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HoardingPhotFram/land/frame_22.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HoardingPhotFram/land/frame_23.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/HoardingPhotFram/land/frame_24.webp",
