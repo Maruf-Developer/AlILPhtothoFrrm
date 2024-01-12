@@ -419,24 +419,17 @@
 "https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/TshhrtPhtFrms/squr/21.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/TshhrtPhtFrms/squr/22.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/TshhrtPhtFrms/squr/23.webp",
-"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/TshhrtPhtFrms/squr/24.webp",
-"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/TshhrtPhtFrms/squr/25.webp"
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/TshhrtPhtFrms/squr/24.webp"
 ],
 "portrait9":[  
 "https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/TshhrtPhtFrms/port/1.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/TshhrtPhtFrms/port/2.webp",
-"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/TshhrtPhtFrms/port/3.webp",
-"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/TshhrtPhtFrms/port/4.webp",
-"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/TshhrtPhtFrms/port/5.webp",
-"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/TshhrtPhtFrms/port/6.webp",
-"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/TshhrtPhtFrms/port/7.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/TshhrtPhtFrms/port/8.webp",
-"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/TshhrtPhtFrms/port/9.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/TshhrtPhtFrms/port/10.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/TshhrtPhtFrms/port/11.webp",
-"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/TshhrtPhtFrms/port/12.webp",
-"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/TshhrtPhtFrms/port/13.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/TshhrtPhtFrms/port/14.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/TshhrtPhtFrms/port/13.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/TshhrtPhtFrms/port/9.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/TshhrtPhtFrms/port/15.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/TshhrtPhtFrms/port/16.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/TshhrtPhtFrms/port/17.webp",
@@ -444,8 +437,8 @@
 "https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/TshhrtPhtFrms/port/19.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/TshhrtPhtFrms/port/20.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/TshhrtPhtFrms/port/21.webp",
-"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/TshhrtPhtFrms/port/22.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/TshhrtPhtFrms/port/23.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/TshhrtPhtFrms/port/22.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/TshhrtPhtFrms/port/24.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/AlILPhtothoFrmaae/main/TshhrtPhtFrms/port/25.webp"
 ],
@@ -598,9 +591,8 @@
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/square/frame-21.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/square/frame-22.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/square/frame-23.webp",
-"https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/square/frame-24.webp"
- ],
- "square13a":[
+"https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/square/frame-24.webp",
+
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/square/frame-25.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/square/frame-26.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/square/frame-27.webp",
@@ -628,9 +620,8 @@
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/square/frame-49.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/square/frame-50.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/square/frame-51.webp",
-"https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/square/frame-52.webp"
- ],
-"square13b":[
+"https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/square/frame-52.webp",
+
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/square/frame-53.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/square/frame-54.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/square/frame-55.webp",
@@ -684,9 +675,7 @@
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/landscape/frame-19.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/landscape/frame-20.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/landscape/frame-21.webp",
-"https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/landscape/frame-22.webp"
- ],
-"landscape13a":[
+"https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/landscape/frame-22.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/landscape/frame-23.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/landscape/frame-24.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/landscape/frame-25.webp",
@@ -1158,9 +1147,7 @@
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/FrendshiipDaayPhtoFrmae/land/fram-21.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/FrendshiipDaayPhtoFrmae/land/fram-22.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/FrendshiipDaayPhtoFrmae/land/fram-23.webp",
-"https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/FrendshiipDaayPhtoFrmae/land/fram-24.webp"  
-  ],
- "landscape19a":[
+"https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/FrendshiipDaayPhtoFrmae/land/fram-24.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/FrendshiipDaayPhtoFrmae/land1/fram-1.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/FrendshiipDaayPhtoFrmae/land1/fram-2.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/FrendshiipDaayPhtoFrmae/land1/fram-3.webp",
@@ -2134,9 +2121,8 @@
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SunsetPhotoFrams/port2/fram-21.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SunsetPhotoFrams/port2/fram-23.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SunsetPhotoFrams/port2/fram-22.webp",
-"https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SunsetPhotoFrams/port2/fram-24.webp"
-],
-"portrait32a":[
+"https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SunsetPhotoFrams/port2/fram-24.webp",
+
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SunsetPhotoFrams/port2/fram-1.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SunsetPhotoFrams/port2/fram-2.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SunsetPhotoFrams/port2/fram-3.webp",
@@ -2316,9 +2302,7 @@
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/UnderwaterFrame/landscape/frame-15.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/UnderwaterFrame/landscape/frame-16.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/UnderwaterFrame/landscape/frame-19.webp",
-"https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/UnderwaterFrame/landscape/frame-20.webp"
-],
-"landscape34a":[
+"https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/UnderwaterFrame/landscape/frame-20.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/UnderwaterFrame/landscape1/frame-1.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/UnderwaterFrame/landscape1/frame-3.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/UnderwaterFrame/landscape1/frame-4.webp",
@@ -2334,9 +2318,7 @@
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/UnderwaterFrame/landscape1/frame-19.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/UnderwaterFrame/landscape1/frame-20.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/UnderwaterFrame/landscape1/frame-21.webp",
-"https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/UnderwaterFrame/landscape1/frame-22.webp"
-],
-"landscape34b":[
+"https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/UnderwaterFrame/landscape1/frame-22.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/UnderwaterFrame/landscape/frame-21.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/UnderwaterFrame/landscape/frame-22.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/UnderwaterFrame/landscape2/frame-1.webp",
@@ -2375,9 +2357,7 @@
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/squr1/fram-17.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/squr1/fram-18.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/squr1/fram-19.webp",
-"https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/squr1/fram-20.webp"
-],
-  "square35a":[
+"https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/squr1/fram-20.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/squr2/fram-1.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/squr2/fram-2.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/squr2/fram-3.webp",
@@ -2417,9 +2397,7 @@
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/port1/fram-17.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/port1/fram-18.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/port1/fram-19.webp",
-"https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/port1/fram-20.webp"
-],
-  "portrait35a":[
+"https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/port1/fram-20.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/port2/fram-1.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/port2/fram-2.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/port2/fram-3.webp",
@@ -2463,9 +2441,7 @@
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/land1/fram-19.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/land1/fram-20.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/land1/fram-21.webp",
-"https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/land1/fram-22.webp"
-],
-  "landscape35a":[
+"https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/land1/fram-22.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/land2/fram-1.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/land2/fram-2.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/land2/fram-3.webp",
@@ -2487,9 +2463,7 @@
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/land2/fram-19.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/land2/fram-20.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/land2/fram-21.webp",
-"https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/land2/fram-22.webp"
-],
-  "landscape35b":[
+"https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/land2/fram-22.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/land3/fram-1.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/land3/fram-2.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/WaterfallPhotFrmes/land3/fram-3.webp",
@@ -2697,9 +2671,7 @@
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/land/frm-13.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/land/frm-14.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/land/frm-15.webp",
-"https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/land/frm-16.webp"
-],
-"landscape37a":[
+"https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/land/frm-16.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/land1/frm-1.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/land1/frm-2.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MissYouFrame/land1/frm-3.webp",
