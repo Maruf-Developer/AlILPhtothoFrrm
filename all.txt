@@ -1791,8 +1791,7 @@
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/squr/fram-15.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/squr/fram-16.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/squr/fram-17.webp",
-"https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/squr/fram-18.webp",
-"https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/squr/fram-23.webp"
+"https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/squr/fram-18.webp"
 ],
 "portrait31":[
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/SnowfallPhotoFram/port/fram-1.webp",
