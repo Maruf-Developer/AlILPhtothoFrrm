@@ -577,7 +577,6 @@
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/square/frame-49.webp",
 
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/square/frame-53.webp",
-"https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/square/frame-54.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/square/frame-82.webp"
 ],
 "landscape13":[
@@ -587,7 +586,6 @@
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/landscape/frame-10.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/landscape/frame-12.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/landscape/frame-13.webp",
-"https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/landscape/frame-14.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/landscape/frame-18.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/landscape/frame-19.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/3DPhotFram/landscape/frame-21.webp",
