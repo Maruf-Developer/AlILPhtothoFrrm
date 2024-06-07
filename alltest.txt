@@ -2550,9 +2550,6 @@
 	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr/squr%20(19).webp",
 	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/squr/squr%20(20).webp"
 ],
-"portrait43":[
-
-],
 "landscape43":[
 "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land/land%20(1).webp",
 	"https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BiijoyDboshPhtoFrmes/land/land%20(2).webp",
@@ -2752,9 +2749,6 @@
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/15AugustPhotoFrams/squr/fram-15.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/15AugustPhotoFrams/squr/fram-16.webp"
 ],
-"portrait46":[
-
-],
 "landscape46":[
 "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/15AugustPhotoFrams/land/fram-1.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/15AugustPhotoFrams/land/fram-2.webp",
@@ -2874,9 +2868,6 @@
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/squr/fram-18.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/khaleda/squr-11.webp"
 ],
-"portrait48":[
-
-],
 "landscape48":[
  "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/landd/fram-7.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/landd/fram-9.webp",
@@ -2886,7 +2877,10 @@
    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/zia/land-6.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/landd/khaleda1.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/squr2/l1.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/landd/fram-23.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/landd/fram-23.webp"
+
+],
+"landscape48a":[
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/landd/fram-24.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/landd/fram-25.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/BNPPhotoFrame/landd/fram-26.webp",
@@ -2966,7 +2960,10 @@
    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/elctoin/lnd/a5.webp", 
    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/elctoin/lnd/a6.webp", 
    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/elctoin/lnd/a7.webp", 
-    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/land1/fram-14.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/land1/fram-14.webp"
+
+],
+"landscape49a":[
    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/hasiinaabrthdy/land-3.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/hasiinaabrthdy/land-4.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/BanglaPhotFram/main/AwamLigPhtoFrmees/land1/fram-15.webp",
@@ -3296,9 +3293,6 @@
     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/SamjwdiPrtyPhtoFrme/squr/fram-11.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/SamjwdiPrtyPhtoFrme/squr/fram-12.webp"
 ],
-"portrait52":[
-
-],
 "landscape52":[
 "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/SamjwdiPrtyPhtoFrme/land/fram-1.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/SamjwdiPrtyPhtoFrme/land/fram-2.webp",
@@ -3347,14 +3341,6 @@
      "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/SamjwdiPrtyPhtoFrme/land1/fram-22.webp"
 ],
 
-
-
-"square53":[
-
-],
-"portrait53":[
-
-],
 "landscape53":[
 "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/RJDprtyPhhotFrms/land/fram-1.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/RJDprtyPhhotFrms/land/fram-2.webp",
@@ -3442,9 +3428,6 @@
    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BSPprtyPhotFrms/sqr/fram-8.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BSPprtyPhotFrms/sqr/fram-9.webp"
 ],
-"portrait54":[
-
-],
 "landscape54":[
 "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BSPprtyPhotFrms/land/fram-1.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BSPprtyPhotFrms/land/fram-2.webp",
@@ -3496,13 +3479,6 @@
      "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BSPprtyPhotFrms/land1/fram-25.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BSPprtyPhotFrms/land1/fram-26.webp"
 ],
-
-
-
-"square55":[
-
-],
-"portrait55":[
 
 ],
 "landscape55":[
@@ -3615,9 +3591,7 @@
    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/CongrssprtryPhtoFrms/squr/fram-31.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/CongrssprtryPhtoFrms/squr/fram-32.webp"
 ],
-"portrait56":[
 
-],
 "landscape56":[
 "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/CongrssprtryPhtoFrms/land/fram-1.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/CongrssprtryPhtoFrms/land/fram-2.webp",
@@ -4118,14 +4092,6 @@
 "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BbJJPpPhtooFrm/squr/f41.png"
 
 ],
-"portrait62":[
-
-],
-"landscape62":[
-
-],
-
-
 
 "square63":[
 "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/IslamicPhotFrams/squr/fram-1.webp",
