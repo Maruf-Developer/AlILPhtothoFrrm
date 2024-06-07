@@ -4089,6 +4089,18 @@
 "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BbJJPpPhtooFrm/squr/f39.png",
 "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BbJJPpPhtooFrm/squr/f40.png",
 "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BbJJPpPhtooFrm/squr/f41.png"
+],
+"landscape62":[
+"https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BbJJPpPhtooFrm/land/1.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BbJJPpPhtooFrm/land/2.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BbJJPpPhtooFrm/land/3.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BbJJPpPhtooFrm/land/4.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BbJJPpPhtooFrm/land/5.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BbJJPpPhtooFrm/land/6.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BbJJPpPhtooFrm/land/7.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BbJJPpPhtooFrm/land/8.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BbJJPpPhtooFrm/land/9.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BbJJPpPhtooFrm/land/10.webp"
 
 ],
 
