@@ -3556,11 +3556,7 @@
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/NewwYeaarPhotFrems/tmp/land%20(19).webp",
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/NewwYeaarPhotFrems/tmp/land%20(20).webp",
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/NewwYeaarPhotFrems/tmp/land%20(21).webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/NewwYeaarPhotFrems/tmp/land%20(22).webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/NewwYeaarPhotFrems/tmp/hind%20(1).webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/NewwYeaarPhotFrems/tmp/hind%20(2).webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/NewwYeaarPhotFrems/tmp/hind%20(6).webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/NewwYeaarPhotFrems/tmp/hind%20(7).webp"
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/NewwYeaarPhotFrems/tmp/land%20(22).webp"
 
     ],
   "landscape54a":[
