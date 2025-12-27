@@ -3510,8 +3510,6 @@
   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/NewwYeaarPhotFrems/tmp/flow%20(16).webp"
     ],
 "square54b":[
-   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/NewwYeaarPhotFrems/tmp/squr%20(22).webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/NewwYeaarPhotFrems/tmp/squr%20(23).webp",
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/NewwYeaarPhotFrems/tmp/squr%20(25).webp",
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/NewwYeaarPhotFrems/tmp/squr%20(26).webp",
   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/NewwYeaarPhotFrems/raw/squar/fram%20(1).webp",
@@ -3526,6 +3524,8 @@
   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/NewwYeaarPhotFrems/raw/squar/fram%20(10).webp",
   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/NewwYeaarPhotFrems/raw/squar/fram%20(11).webp",
   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/NewwYeaarPhotFrems/raw/squar/fram%20(12).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/NewwYeaarPhotFrems/tmp/squr%20(22).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/NewwYeaarPhotFrems/tmp/squr%20(23).webp",
   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/NewwYeaarPhotFrems/raw/squar/fram%20(13).webp",
   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/refs/heads/main/NewwYeaarPhotFrems/raw/squar/fram%20(14).webp"
     ],
